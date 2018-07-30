@@ -1,0 +1,35 @@
+﻿<Window x:Class="myWPFDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:myWPFDemo"
+        Background="{StaticResource background}"
+        mc:Ignorable="d" 
+        d:DesignHeight="300" d:DesignWidth="300"
+        Title="My WPF Demo - Hello World - Game" Height="399" Width="800" WindowStartupLocation="CenterScreen" MinHeight="400" MinWidth="800" MaxHeight="400" MaxWidth="800" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse Fill="Black" Margin="5,5,0,0"></Ellipse>
+                            <Ellipse Fill="{TemplateBinding Background}" Margin="0,0,5,5"></Ellipse>
+                            <Viewbox Margin="5,5,15,15">
+                                <ContentPresenter></ContentPresenter>
+                            </Viewbox>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="clickbutton" Content="Click Me" HorizontalAlignment="Right" VerticalAlignment="Top" Width="75" Click="Button_Click" MouseEnter="clickbutton_MouseEnter"/>
+        <TextBlock x:Name="greeting" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Hello World Game" VerticalAlignment="Center" RenderTransformOrigin="2.757,12.643" FontSize="30" FontStyle="Italic" FontWeight="Bold"/>
+        <TextBlock x:Name="message" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Try to Click the Button for a Surprise!" VerticalAlignment="Bottom" RenderTransformOrigin="2.757,12.643" FontSize="20" FontStyle="Italic" FontWeight="Bold"/>
+        <Image x:Name="party" gif:ImageBehavior.AnimatedSource="catparty.gif" Stretch="Fill" Visibility="Hidden"/>
+    </Grid>
+</Window>

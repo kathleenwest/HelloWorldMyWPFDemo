@@ -1,0 +1,17 @@
+﻿<Application x:Class="myWPFDemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:myWPFDemo"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <LinearGradientBrush x:Key="background">
+            <GradientStop Color="#FFF5D8E8" Offset="0"></GradientStop>
+            <GradientStop Color="#FFC61779" Offset="1"></GradientStop>
+        </LinearGradientBrush>
+
+        <LinearGradientBrush x:Key="background_dialog">
+            <GradientStop Color="#FFF4F943" Offset="0"></GradientStop>
+            <GradientStop Color="#FFD3C304" Offset="1"></GradientStop>
+        </LinearGradientBrush>
+    </Application.Resources>
+</Application>

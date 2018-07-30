@@ -1,0 +1,44 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\giggle.wav
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\yahoo.wav
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\myWPFDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\myWPFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\myWPFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\WpfAnimatedGif.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\bin\Release\WpfAnimatedGif.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\DialogBox.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\MainWindow.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\App.g.cs
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo_MarkupCompile.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo_MarkupCompile.lref
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\App.baml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\DialogBox.baml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\MainWindow.baml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo.g.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 6\myWPFDemo\myWPFDemo\obj\Release\myWPFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\giggle.wav
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\yahoo.wav
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\myWPFDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\myWPFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\myWPFDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\WpfAnimatedGif.dll
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\bin\Release\WpfAnimatedGif.xml
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\DialogBox.g.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\MainWindow.g.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\App.g.cs
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo_MarkupCompile.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo_MarkupCompile.lref
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\App.baml
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\DialogBox.baml
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\MainWindow.baml
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.g.resources
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.csproj.GenerateResource.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\C# .NET\portfolio\CSharp\WPF Applications\Hello World\myWPFDemo_VSS\myWPFDemo\obj\Release\myWPFDemo.pdb
