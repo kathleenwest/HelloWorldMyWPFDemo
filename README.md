@@ -1,3 +1,5 @@
+Project Blog Article: https://portfolio.katiegirl.net/2017/11/08/helloworldmywpfdemo/
+
 Hello World Game by Kathleen: (myWPFDemo)
 
 A simple "C# Windows Presentation Framework (WPF) | XAML | Windows 10 App" that many staff firms want to see submitted with the resume. Well I made the simple program with a twist. Catch the button if you can! It will laugh at you if you can't. And if you do catch it, it will show a Message Box that says the Hello World message and then show a Window Dialog that gives the user an option to do a party where cats dance. LOL. Not meant/ yet designed to be run on mobile devices/smaller screens.
